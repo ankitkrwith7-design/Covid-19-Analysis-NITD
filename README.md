@@ -145,8 +145,10 @@ By completing this project, the following competencies were achieved:
 
 ## 🧑‍💻 **Project Team**
 
+* **Adarsh 221210007**
 * **Ankit 221210020**
 * **Anupam 221210023**
+* * **Ankit 221210058**
  
 ---
 
